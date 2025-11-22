@@ -56,11 +56,19 @@ streamlit run app.py
 ## 🖼️ Output Example
 Below: Sample input and detection outputs (red bounding boxes for detected objects):
 
-<img width="1912" height="928" alt="SS1" src="https://github.com/user-attachments/assets/4d46e740-4074-4bf3-afe6-8228bf40ecdb" />
-<img width="1907" height="918" alt="SS2" src="https://github.com/user-attachments/assets/fbc1aed9-f5c6-46f0-b6da-39304d81e228" />
-<img width="1897" height="910" alt="SS3" src="https://github.com/user-attachments/assets/81b79f9c-4d89-40fa-bea3-46ad0456bab2" />
-<img width="1913" height="916" alt="SS4" src="https://github.com/user-attachments/assets/9182ba63-8434-4f0a-9d4b-862d73dd5811" />
-<img width="1917" height="921" alt="SS5" src="https://github.com/user-attachments/assets/86f063fc-52df-491e-bfdd-6c99b824c9e7" />
+<img width="1912" height="928" alt="SS1" src="https://github.com/user-attachments/assets/6180029f-3a9d-40dc-a1f6-a012971f070f" />
+
+<img width="1907" height="918" alt="SS2" src="https://github.com/user-attachments/assets/b81715b2-4d2b-46d8-8c1a-541c1fedaebe" />
+
+<img width="1897" height="910" alt="SS3" src="https://github.com/user-attachments/assets/ee0b2857-11cb-45b6-b7a1-0ae2e1d31b23" />
+
+<img width="1913" height="916" alt="SS4" src="https://github.com/user-attachments/assets/03ff8989-e9c4-41f0-abfa-f191412aabb9" />
+
+<img width="1917" height="921" alt="SS5" src="https://github.com/user-attachments/assets/c04c54ca-e73e-4c89-a9e9-acf92c2f4c03" />
+
+
+
+
 
 ## 🛠️ Code Structure
 app.py : Streamlit user interface & logic
